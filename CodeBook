@@ -1,0 +1,211 @@
+Skip to content
+Features
+Platform
+Business
+Explore
+Pricing
+
+Search
+
+Sign in
+Sign up
+0 0 0 chowchowsheep/Getting-cleaningdata
+ Code  Issues 0  Pull requests 0  Projects 0  Insights
+Join GitHub today
+GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.
+
+Getting-cleaningdata/CodeBook.md
+a3cb630  3 hours ago
+@chowchowsheep chowchowsheep Update CodeBook.md
+     
+193 lines (90 sloc)  2.18 KB
+Identifiers
+subject - The ID of the test subject
+
+activity - The type of activity performed when the corresponding measurements were taken
+
+Activities
+WALKING (value 1): subject was walking during the test
+
+WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
+
+WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
+
+SITTING (value 4): subject was sitting during the test
+
+STANDING (value 5): subject was standing during the test
+
+LAYING (value 6): subject was laying down during the test
+
+Variables
+tBodyAccmeanX
+
+tBodyAccmeanY
+
+tBodyAccmeanZ
+
+tBodyAccstdX
+
+tBodyAccstdY
+
+tBodyAccstdZ
+
+tGravityAccmeanX
+
+tGravityAccmeanY
+
+tGravityAccmeanZ
+
+tGravityAccstdX
+
+tGravityAccstdY
+
+tGravityAccstdZ
+
+tBodyAccJerkmeanX
+
+tBodyAccJerkmeanY
+
+tBodyAccJerkmeanZ
+
+tBodyAccJerkstdX
+
+tBodyAccJerkstdY
+
+tBodyAccJerkstdZ
+
+tBodyGyromeanX
+
+tBodyGyromeanY
+
+tBodyGyromeanZ
+
+tBodyGyrostdX
+
+tBodyGyrostdY
+
+tBodyGyrostdZ
+
+tBodyGyroJerkmeanX
+
+tBodyGyroJerkmeanY
+
+tBodyGyroJerkmeanZ
+
+tBodyGyroJerkstdX
+
+tBodyGyroJerkstdY
+
+tBodyGyroJerkstdZ
+
+tBodyAccMagmean
+
+tBodyAccMagstd
+
+tGravityAccMagmean
+
+tGravityAccMagstd
+
+tBodyAccJerkMagmean
+
+tBodyAccJerkMagstd
+
+tBodyGyroMagmean
+
+tBodyGyroMagstd
+
+tBodyGyroJerkMagmean
+
+tBodyGyroJerkMagstd
+
+fBodyAccmeanX
+
+fBodyAccmeanY
+
+fBodyAccmeanZ
+
+fBodyAccstdX
+
+fBodyAccstdY
+
+fBodyAccstdZ
+
+fBodyAccmeanFreqX
+
+fBodyAccmeanFreqY
+
+fBodyAccmeanFreqZ
+
+fBodyAccJerkmeanX
+
+fBodyAccJerkmeanY
+
+fBodyAccJerkmeanZ
+
+fBodyAccJerkstdX
+
+fBodyAccJerkstdY
+
+fBodyAccJerkstdZ
+
+fBodyAccJerkmeanFreqX
+
+fBodyAccJerkmeanFreqY
+
+fBodyAccJerkmeanFreqZ
+
+fBodyGyromeanX
+
+fBodyGyromeanY
+
+fBodyGyromeanZ
+
+fBodyGyrostdX
+
+fBodyGyrostdY
+
+fBodyGyrostdZ
+
+fBodyGyromeanFreqX
+
+fBodyGyromeanFreqY
+
+fBodyGyromeanFreqZ
+
+fBodyAccMagmean
+
+fBodyAccMagstd
+
+fBodyAccMagmeanFreq
+
+fBodyBodyAccJerkMagean
+
+fBodyBodyAccJerkMagstd
+
+fBodyBodyAccJerkMagmeanFreq
+
+fBodyBodyGyroMagmean
+
+fBodyBodyGyroMagstd
+
+fBodyBodyGyroMagmeanFreq
+
+fBodyBodyGyroJerkMagmean
+
+fBodyBodyGyroJerkMagstd
+
+fBodyBodyGyroJerkMagmeanFreq
+
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Press h to open a hovercard with more details.
